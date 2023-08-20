@@ -1,6 +1,5 @@
 # 👋 Hey! [cattodotpy](https://github.com/cattodotpy) here!
 
----
 
 <p align="center">
     <strong style="font-size: 1.2rem">My name is Harrow, known as "catto" on the internet from Hong Kong 🇭🇰</strong>
