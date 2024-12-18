@@ -7,10 +7,6 @@
 
 #### I'm a 🏫 high school student who is interested in programming, computer science and machine learning 🤖.  
 
-- 🌱 I’m currently learning **C++** and **Java**.
-- 📫 How to reach me: **[Discord](https://discord.com/users/994830124165906444)** 
-- ⚡ Fun fact: I love cats 🐱 and I have a cat named "Hushbrown" 🐈
-
 ---
   
 
